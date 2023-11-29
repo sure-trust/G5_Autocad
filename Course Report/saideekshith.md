@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Designing of Mechanical Components     |  [click here](https://github.com/SAIDEEKSHITH-PENDLIMARRI/G5_Autocad/tree/main/Mini%20Projects/Sai%20Deekshith)                         |
-| Final Project:  Designing of Single Cylinder Engine     |  [click here](https://github.com/SAIDEEKSHITH-PENDLIMARRI/G5_Autocad/tree/main/Final%20Capstone%20Project/Sai%20Deekshith/SINGLE%20CYLINDER%20ENGINE)                         |
+| Mini Projects: Designing of Mechanical Components     |  [click here](https://github.com/sure-trust/G5_Autocad/tree/main/Mini%20Projects/Sai%20Deekshith)                         |
+| Final Project:  Designing of Single Cylinder Engine     |  [click here](https://github.com/sure-trust/G5_Autocad/tree/main/Final%20Capstone%20Project/Sai%20Deekshith/SINGLE%20CYLINDER%20ENGINE)                         |
