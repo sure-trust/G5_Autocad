@@ -6,16 +6,16 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>Course Name</h2>
+  <h2>AutoCad & Solidworks for Mechanical Engineers</h2>
 </div>
 
 # Course Report
 
-## Name: [Your Name]
+## Name: JALLI VENKATA GANESH
 
-## Qualifications: [Your Qualifications]
+## Qualifications:  STUDING 4TH YEAR Btech(mechanical engineering)
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the  AutoCad & Solidworks for Mechanical Engineers! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Mini Projects:  2d drawing of truck,screw jack,bench wise     |  [click here](https://github.com/sure-trust/G5_Autocad/tree/main/Mini%20Projects/Venkata%20Ganesh)                         |
+| Final Project:  manual sheet rolling machine     |  [click here](https://github.com/sure-trust/G5_Autocad/tree/main/Final%20Capstone%20Project/Venkata%20Ganesh/MAJOR%20PROJECT)                         |
